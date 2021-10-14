@@ -89,11 +89,8 @@ footer {
 }
 
 @media (max-width: 992px){
-  .picture{
-    max-height: 50vh;
-  }
-  footer{
-    display: flex;
-    flex-direction: row;
-  }
+
+ .picture{
+   float: left;
+ }
 }
