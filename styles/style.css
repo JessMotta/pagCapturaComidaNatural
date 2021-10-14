@@ -93,4 +93,8 @@ footer {
  .picture{
    float: left;
  }
+.formContainer{
+  float: none;
+  margin: auto;
+}
 }
