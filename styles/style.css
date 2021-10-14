@@ -3,8 +3,6 @@
   padding: 0;
 }
 
-
-
 header {
   padding-top: 10px;
   background-color: #26800c;
@@ -25,7 +23,7 @@ section {
 .formContainer {
   max-width: 300px;
   color: white;
-  background-color: #26800cdd;
+  background-color: #26800cbc;
   padding: 20px;
   float: right;
   text-align: justify;
@@ -65,7 +63,7 @@ select {
 }
 
 footer {
-  background-color: #22750b;
+  background-color: #EEEBE8;
   padding: 40px;
   text-align: center;
 }
@@ -77,7 +75,7 @@ footer {
 .description {
   display: inline-block;
   text-align: justify;
-  color: white;
+  color:#26800c;
   max-width: 40%;
   margin-left: 40px;
 }
