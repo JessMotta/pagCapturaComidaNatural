@@ -97,4 +97,8 @@ footer {
   float: none;
   margin: auto;
 }
+
+ footer{
+   padding: 20px;
+ }
 }
