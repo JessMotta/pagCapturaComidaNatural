@@ -15,18 +15,37 @@ header {
 }
 
 section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding: 20px;
   background-image: url('../assets/images/background.png');
   background-size: cover;
   overflow: hidden;
 }
+.invitation{
+  max-width: 800px;
+  color: white;
+  text-align: justify;
+  padding: 20px;
+  margin-top: 50px;
+  float: inline-end;
+  line-height: 1.5em;
+}
+
 .formContainer {
-  max-width: 300px;
+  max-width: 350px;
   color: white;
   background-color: #26800cbc;
   padding: 20px;
-  float: right;
+  margin-top: 50px;
   text-align: justify;
+}
+
+.formContainer h3{
+  text-align: center;
+  margin-bottom: 10px;
 }
 
 h2 {
