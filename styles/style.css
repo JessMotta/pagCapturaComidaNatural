@@ -23,10 +23,11 @@ section {
   background-image: url('../assets/images/background.png');
   background-size: cover;
   overflow: hidden;
+  color: white;
 }
 .invitation{
   max-width: 800px;
-  color: white;
+  /* color: white; */
   text-align: justify;
   padding: 20px;
   margin-top: 50px;
@@ -109,10 +110,10 @@ footer {
 
 @media (max-width: 992px){
 
-.formContainer{
+/* .formContainer{
   float: none;
   margin: auto;
-}
+} */
 
  footer{
    display: inline-block;
